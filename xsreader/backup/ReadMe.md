@@ -1,11 +1,11 @@
 # 搬运备份来自gitee的香色闺阁(ios)书源
 
-[**仓库-->**](https://gitee.com/AlphonsoEstrada/xs)
+[**AlphonsoEstrada仓库-->**]
 
 **书源**:https://gitee.com/AlphonsoEstrada/xs/blob/master/sourceModelList.xbs
 
-[**仓库-->**](https://gitee.com/gitstudyabc/xs)
+[**gitstudyabc仓库-->**]
 
 **书源**:https://gitee.com/gitstudyabc/xs/blob/master/source.xbs
 
-[**仓库-->**](https://gitee.com/readbook188)         已被gitee屏蔽
+[**readbook188仓库-->**]        已被gitee屏蔽
