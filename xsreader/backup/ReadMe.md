@@ -2,7 +2,7 @@
 
 [**仓库-->**](https://gitee.com/AlphonsoEstrada/xs)
 
-**书源**:https://gitee.com/AlphonsoEstrada/xs/raw/master/sourceModelList.xbs
+**书源**:https://gitee.com/AlphonsoEstrada/xs/blob/master/sourceModelList.xbs
 
 [**仓库-->**](https://gitee.com/gitstudyabc/xs)
 
