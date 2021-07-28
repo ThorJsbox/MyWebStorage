@@ -1,11 +1,12 @@
 # 搬运备份来自gitee的香色闺阁(ios)书源
 
+**备份源地址合集**:目录下backup.md
 
 **AlphonsoEstrada仓库**
 
 **书源**:https://gitee.com/AlphonsoEstrada/xs/blob/master/sourceModelList.xbs
 
-**gitstudyabc仓库**
+**gitstudyabc仓库**  已删库
 
 **书源**:https://gitee.com/gitstudyabc/xs/blob/master/source.xbs
 

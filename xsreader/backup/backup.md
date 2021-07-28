@@ -6,31 +6,28 @@
 
 **书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs
 
+
 **gitstudyabc仓库**
 
 **书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/source.xbs
 
-**readbook188仓库**        已被gitee屏蔽
 
 **GiovannyRamsey仓库**
 
-**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs
+**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/GiovannyRamsey_sourceModelList.xbs
 
-## 帮助说明
-
-**MaximillianMckenzie仓库**
-
-**原地址**:https://gitee.com/maximillianmckenzie/xiangsehelp/blob/master/README.md
 
 **xiangse仓库-海棠源**
 
-**书源**:https://gitee.com/xiangse/womeidejiayuan/blob/master/sourceModelList.xbs
+**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xiangse_sourceModelList.xbs
+
 
 **weilaiok仓库-漫画源**
 
-**书源**:https://gitee.com/weilaiok/xiangsemanhua/raw/master/sourceModelList.xbs
+**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/weilaiok_sourceModelList.xbs
+
 
 
 **AliyaBatesBit仓库-听书源**
 
-**书源**:https://gitee.com/AliyaBatesBit/xiangseting/raw/master/sourceModelList.xbs
+**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/_sourceModelList.xbs
