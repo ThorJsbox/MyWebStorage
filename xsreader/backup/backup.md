@@ -1,19 +1,20 @@
 # 搬运备份来自gitee的香色闺阁(ios)书源
+## 这里是备份地址，用于部分被gitee屏蔽的
 
 
 **AlphonsoEstrada仓库**
 
-**书源**:https://gitee.com/AlphonsoEstrada/xs/blob/master/sourceModelList.xbs
+**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs
 
 **gitstudyabc仓库**
 
-**书源**:https://gitee.com/gitstudyabc/xs/blob/master/source.xbs
+**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/source.xbs
 
 **readbook188仓库**        已被gitee屏蔽
 
 **GiovannyRamsey仓库**
 
-**书源**:https://gitee.com/giovannyramsey/xiangse/raw/master/sourceModelList.xbs
+**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs
 
 ## 帮助说明
 
