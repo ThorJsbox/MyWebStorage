@@ -16,11 +16,6 @@
 
 **书源**:https://gitee.com/giovannyramsey/xiangse/raw/master/sourceModelList.xbs
 
-## 帮助说明
-
-**MaximillianMckenzie仓库**
-
-**原地址**:https://gitee.com/maximillianmckenzie/xiangsehelp/blob/master/README.md
 
 **xiangse仓库-海棠源**
 
@@ -34,3 +29,10 @@
 **AliyaBatesBit仓库-听书源**
 
 **书源**:https://gitee.com/AliyaBatesBit/xiangseting/raw/master/sourceModelList.xbs
+
+
+## 帮助说明
+
+**MaximillianMckenzie仓库**
+
+**原地址**:https://gitee.com/maximillianmckenzie/xiangsehelp/blob/master/README.md
