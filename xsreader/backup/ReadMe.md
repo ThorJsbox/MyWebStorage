@@ -8,8 +8,6 @@
 
 **gitstudyabc仓库**  已删库
 
-**书源**:https://gitee.com/gitstudyabc/xs/blob/master/source.xbs
-
 **readbook188仓库**        已被gitee屏蔽
 
 **GiovannyRamsey仓库**
