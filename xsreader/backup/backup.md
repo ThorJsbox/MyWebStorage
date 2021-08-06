@@ -3,6 +3,10 @@
 ### 这里是备份地址，用于部分被gitee屏蔽的
 
 
+----------------------------------
+2021年8月6号更新
+----------------------------------
+
 **AlphonsoEstrada仓库**
 
 **优质书源书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs``
