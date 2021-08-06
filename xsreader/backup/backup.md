@@ -4,30 +4,31 @@
 
 **AlphonsoEstrada仓库**
 
-**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs
+**优质书源书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList.xbs``
+**普通书源书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/sourceModelList2.xbs``
 
 
 **gitstudyabc仓库**
 
-**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/source.xbs
+**书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/source.xbs``
 
 
 **GiovannyRamsey仓库**
 
-**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/GiovannyRamsey_sourceModelList.xbs
+**书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/GiovannyRamsey_sourceModelList.xbs``
 
 
 **xiangse仓库-海棠源**
 
-**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xiangse_sourceModelList.xbs
+**书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/xiangse_sourceModelList.xbs``
 
 
 **weilaiok仓库-漫画源**
 
-**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/weilaiok_sourceModelList.xbs
+**书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/weilaiok_sourceModelList.xbs``
 
 
 
 **AliyaBatesBit仓库-听书源**
 
-**书源**:https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/_sourceModelList.xbs
+**书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/_sourceModelList.xbs``
