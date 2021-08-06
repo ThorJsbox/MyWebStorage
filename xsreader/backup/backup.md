@@ -34,3 +34,13 @@
 **AliyaBatesBit仓库-听书源**
 
 **书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/_sourceModelList.xbs``
+
+
+**readbook仓库-女频源**
+
+**书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/readbook_sourceModelList.xbs``
+
+
+**flyWorld11仓库-笔趣阁50+**
+
+**书源**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/flyWorld11_source.xbs``
