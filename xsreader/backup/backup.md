@@ -51,9 +51,15 @@
 
 
 **flyWorld11仓库-自制与修改源**
-- 晋江文学城： ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/jjwxc.xbs``
-- 笔下文学: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/bxwxorg.xbs``
-- 鲲弩小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/kunnu.xbs``
-- 书宝网-移动网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowm.xbs``
-- 书宝网-桌面网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowd.xbs``
-- All Novel英文小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/allnovel.xbs``
+- 晋江文学城： ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/jjwxc.xbs``
+- 笔下文学: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/bxwxorg.xbs``
+- 鲲弩小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/kunnu.xbs``
+- 书宝网-移动网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/shubaowm.xbs``
+- 书宝网-桌面网站：``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/shubaowd.xbs``
+- All Novel英文小说: ``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/allnovel.xbs``
+
+
+## 帮助说明
+
+**MaximillianMckenzie仓库**
+**备份地址**:``https://raw.githubusercontent.com/zqzess/MyWebStorage/main/xsreader/backup/Help.md``
