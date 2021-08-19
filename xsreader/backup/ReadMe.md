@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2021年8月6号更新
+2021年8月19号更新
 ----------------------------------
 
 
@@ -44,6 +44,15 @@
 **flyWorld11仓库-笔趣阁50+**
 
 **书源**:``https://flyandnewgame.coding.net/p/a/d/xs/git/raw/master/source.xbs``
+
+
+**flyWorld11仓库-自制与修改源**
+- 晋江文学城： ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/jjwxc.xbs``
+- 笔下文学: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/bxwxorg.xbs``
+- 鲲弩小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/kunnu.xbs``
+- 书宝网-移动网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowm.xbs``
+- 书宝网-桌面网站：``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/shubaowd.xbs``
+- All Novel英文小说: ``https://gitee.com/haitang-blossoms/xiangsesource/blob/master/xiangsesource/allnovel.xbs``
 
 
 *******************************************************************************
