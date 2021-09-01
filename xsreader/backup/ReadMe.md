@@ -5,7 +5,7 @@
 ```
 
 ----------------------------------
-2021年8月19号更新
+2021年9月1号更新
 ----------------------------------
 
 
@@ -28,7 +28,7 @@
 
 **weilaiok仓库-漫画源**
 
-**书源**:``https://gitee.com/weilaiok/xiangsemanhua/raw/master/sourceModelList.xbs``
+**书源**:``https://weilaiba.coding.net/p/s/d/s/git/raw/master/sourceModelList.xbs``
 
 
 **AliyaBatesBit仓库-听书源**
